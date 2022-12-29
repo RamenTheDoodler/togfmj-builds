@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smnio.png"><SubTexture name="smnio grrr0000" x="0" y="0" width="307" height="326" frameX="-30" frameY="-74" frameWidth="400" frameHeight="400" />
+<SubTexture name="smnio bruh0000" x="611" y="0" width="273" height="306" frameX="-49" frameY="-94" frameWidth="400" frameHeight="400" />
+<SubTexture name="smnio whatthefuck0000" x="0" y="326" width="294" height="179" frameX="-26" frameY="-118" frameWidth="400" frameHeight="400" />
+<SubTexture name="smnio coolbro0000" x="307" y="0" width="304" height="322" frameX="-45" frameY="-78" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

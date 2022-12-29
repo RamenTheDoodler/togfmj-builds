@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "smnio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hm?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bodeep skbep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "smnio",
+			"boxState": "normal",
+			"expression": "coolbro",
+			"text": "Is this something important or..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop bodep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "smnio",
+			"boxState": "normal",
+			"expression": "whatthefuck",
+			"text": "Okay, I really can't understand fax machine-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bro i just wanna rap."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "smnio",
+			"boxState": "normal",
+			"expression": "whatthefuck",
+			"text": "Oh."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "smnio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Very well then. You best be prepared."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		}
+	]
+}
