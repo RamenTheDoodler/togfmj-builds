@@ -1,3 +1,4 @@
+This is a Psych Engine mod folder mod.
 HEY YOU! YEAH, YOU!
 idk how licenses work so I'M HERE TO TELL YOU WHAT YOU CAN('T) DO WITH THIS MOD!
 Tell me if these conditions are unreasonable, I will make a compromise.
